@@ -12,11 +12,11 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "IAG"
+author = "Technology@IAG"
 description = "IAG tech website"
 keywords = "blog,development, developer, software engineering"
 info = ["Explore the complex problems we have solved ", "&", "Amazing things we have accomplished"]
-avatarURL = "images/avatar.jpg"
+avatarURL = "img/IAG Black and White Logo 200x200.png"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2019
