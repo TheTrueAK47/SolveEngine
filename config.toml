@@ -1,6 +1,6 @@
 baseURL = "http://www.example.com"
 title = "Technology@IAG"
-theme = "coder"
+theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
 paginate = 20
@@ -12,10 +12,10 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "Technology@IAG"
+author = "IAG"
 description = "IAG tech website"
 keywords = "blog,development, developer, software engineering"
-info = ["Explore the complex problems we have solved ", "&", "Amazing things we have accomplished"]
+info = ["Explore the complex problems we have solved and the amazing things we have accomplished"]
 avatarURL = "img/IAG Black and White Logo 200x200.png"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
