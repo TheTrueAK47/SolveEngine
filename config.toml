@@ -140,19 +140,19 @@ weight = 2
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "Blog"
+name = "Blogs"
 weight = 1
-url = "Blogs/"
+url = "blogs/"
 
 #[[languages.en.menu.main]]
 #name = "Projects"
 #weight = 3
 #url = "projects/"
 
-[[languages.en.menu.main]]
-name = "Get in Touch"
-weight = 5
-url = "contact/"
+#[[languages.en.menu.main]]
+#name = "Get in Touch"
+#weight = 5
+#url = "contact/"
 
 #[languages.pt-br]
 #languageName = ":brazil:"
