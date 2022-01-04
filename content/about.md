@@ -6,7 +6,7 @@ aliases = ["about-us", "about IAG", "contact"]
 author = "IAG"
 +++
 
-![image](/content/IAG Black and White Logo 200x200.png )
+![IAG Logo](about-us.png)
 
 Insurance Australia Group Limited (IAG) is the largest general insurance company in Australia and New Zealand. Our business sell insurance under many leading brands, including: NRMA Insurance, CGU,SGIO, SGIC, Swann Insurance, WFI and Poncho Insurance (Australia); and NZI, State, AMI and Lumley (New Zealand).
 
